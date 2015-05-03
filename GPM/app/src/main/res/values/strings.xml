@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GPM</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="tabTitles">
+        <item>Profile</item>
+        <item>Circles</item>
+    </string-array>
+
+    <string name="title_activity_circle_members">CircleMembers</string>
+    <string name="title_activity_friend_profile">FriendProfileActivity</string>
+
+</resources>
